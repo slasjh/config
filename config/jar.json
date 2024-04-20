@@ -1,7 +1,7 @@
 {
     "show_dialog": true,
     "require_password": true,
-    "force_refresh": 0,
+    "force_refresh": 1,
     "password": "240420",
     "title": "欢迎使用码上时光机",
     "message": "密码来自每日签到",
