@@ -1,6 +1,9 @@
 {
-    "key": "240419",
-    "prefix": "时光机",
-    "band": "关注「插兜的干货仓库」",
-    "image": "https://www.bestpvp.site/static/img/%E6%8F%92%E5%85%9C.png"
-}
+    "show_dialog": true,
+    "require_password": true,
+    "password": "240419",
+    "title": "Password Required",
+    "message": "Please enter the password to continue.",
+    "picture": "https://www.bestpvp.site/static/img/%E6%8F%92%E5%85%9C.png",
+    "link": "https://www.bestpvp.site/"
+  }
