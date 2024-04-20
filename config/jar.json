@@ -3,8 +3,8 @@
     "require_password": true,
     "force_refresh": 0,
     "password": "240421",
-    "title": "Password Required",
-    "message": "Please enter the password to continue.",
+    "title": "欢迎使用码上时光机",
+    "message": "请输入密码\n来自每日签到",
     "picture": "https://www.bestpvp.site/static/img/%E6%8F%92%E5%85%9C.png",
     "link": "https://www.bestpvp.site/"
   }
