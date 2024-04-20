@@ -1,7 +1,7 @@
 {
     "show_dialog": true,
     "require_password": true,
-    "force_refresh": 1,
+    "force_refresh": 0,
     "password": "240420",
     "title": "Password Required",
     "message": "Please enter the password to continue.",
