@@ -1,10 +1,10 @@
 {
     "show_dialog": true,
     "require_password": true,
-    "force_refresh": 1,
+    "force_refresh": 0,
     "password": "240420",
-    "title": "欢迎使用码上时光机",
-    "message": "密码来自每日签到",
+    "title": "公众号: 插兜的干货仓库",
+    "message": "每日签到, 免费领取密码",
     "picture": "https://www.bestpvp.site/static/img/%E6%8F%92%E5%85%9C.png",
     "link": "https://www.bestpvp.site/"
   }
