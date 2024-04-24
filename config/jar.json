@@ -2,9 +2,9 @@
     "show_dialog": true,
     "require_password": true,
     "force_refresh": 0,
-    "password": "240420",
-    "title": "公众号: 插兜的干货仓库",
+    "password": "888888",
+    "title": "公众号: X开源精粹",
     "message": "公众号回复: “签到” 免费领取",
-    "picture": "https://www.bestpvp.site/static/img/%E6%8F%92%E5%85%9C.png",
-    "link": "https://www.bestpvp.site/"
+    "picture": "https://gitlab.com/mfkdy/vip/-/raw/main/qrcode_for_gh_e23ed94ccd6a_1280.jpg",
+    "link": "https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json"
   }
