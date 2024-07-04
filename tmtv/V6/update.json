@@ -1,9 +1,0 @@
-{
-    "tag_name": "240703",
-    "assets": [
-        {
-            "browser_download_url": "http://116.62.139.149:3000/slasjh/config/raw/branch/master/update/tmtv/V6/update.json"
-        }
-    ],
-    "body": "功能更新\r\n\r\n- 增加自动更新功能\r\n\r\n- 替换国内CDN镜像站链接，解决部分用户无法打开自定义配置页的问题"
-}
