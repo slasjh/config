@@ -1,0 +1,13 @@
+update/kitkat/leanback.json
+
+ leanback
+  leanback.json
+
+
+
+config/update/release
+ leanback-python-armeabi_v7a
+  leanback.json
+
+  mobile-python-arm64_v8a
+   mobile.json
